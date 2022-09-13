@@ -75,3 +75,46 @@ Si tu ne veux pas qu'il glisse<br>
 Qu'il te ramène du viceLaisse pas traîner ton fils<br>
 Si tu veux pas qu'il glisse<br>
 </span>
+
+
+<br><br>
+
+<span style="color:red">
+Que voulais-tu que ton fils apprenne dans la rue? <br>
+Quelles vertus croyais-tu qu'on y enseigne? <br>
+Mais t'as pas vu comment ça pue dehors <br>
+Mais comment ça sent la mort? <br>
+Quand tu respires ça, mec, t'es comme mort-né <br>
+Tu finis borné à force de tourner en rond <br>
+Ton cerveau te fait défaut, puis fait des bonds <br>
+Et c'est vraiment pas bon quand t'en perds le contrôle <br>
+Quand pour les yeux des autres, tu joues de mieux en mieux ton rôle <br>
+Ton rôle de caillera, juste pour ne pas <br>
+Qu'on te dise, "Voilà tu fais plus partie de la mifa d'en bas" <br>
+C'est dingue mais c'est comme ça <br>
+Sache qu'ici-bas, plus qu'ailleurs, la survie est un combat <br>
+À base de coups bas, de coups de tonba <br>
+D'esquives, des "shta-pow!" de putains de stonba <br>
+Laisse pas traîner ton fils <br>
+Si tu veux pas qu'il glisse <br>
+Qu'il te ramène du vice <br>
+</span>
+
+<br><br>
+
+<span style="color:blue">
+Non laisse pas traîner ton fils <br>
+Laisse pas traîner ton fils <br>
+Si tu ne veux pas qu'il glisse <br>
+Qu'il te ramène du vice <br>
+Laisse pas traîner ton fils <br>
+Si tu veux pas qu'il glisse <br>
+
+<br><br>
+
+Laisse pas traîner ton fils <br>
+Si tu ne veux pas qu'il glisse<br>
+Qu'il te ramène du vice <br>
+Laisse pas traîner ton fils <br>
+Si tu veux pas qu'il glisse <br>
+</span>
